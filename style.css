@@ -2595,7 +2595,7 @@ p {
 	-webkit-box-shadow: 1px 1px 0 0 #fff;
 	box-shadow: 1px 1px 0 0 #fff;
 	color: #454545;
-	float: left;
+	/* float: left; */
 	height: 38px;
 	line-height: 38px;
 	margin-right: 10px;
@@ -3849,7 +3849,7 @@ p.checkout-coupon input[type="submit"] {
 	box-shadow: none;
 	color: #fff;
 	display: inline-block;
-	float: left;
+	/* float: left; */
 	font-size: 14px;
 	font-weight: 600;
 	height: 40px;

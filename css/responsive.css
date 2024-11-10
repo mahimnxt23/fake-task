@@ -1,10 +1,8 @@
 /*=============== Extra Large(xl) Device ===============*/
-
 @media (min-width: 1200px) and (max-width: 1599px) {
 }
 
 /*=============== 0 to 1199 Device ===============*/
-
 @media (max-width: 1199px) {
 	.slider-content {
 		left: 0px;
@@ -21,7 +19,6 @@
 }
 
 /*=============== Large(LG) Device ===============*/
-
 @media (min-width: 992px) and (max-width: 1199px) {
 	.header-menu-list > li:not(:last-child) {
 		margin-right: 45px;
@@ -54,7 +51,6 @@
 }
 
 /*=============== Medium (md) Device ===============*/
-
 @media (min-width: 768px) and (max-width: 991px) {
 	.quick-thumb-content .modal-lg {
 		margin: 0 auto;
@@ -90,7 +86,6 @@
 }
 
 /*=============== 0 to 991 ===============*/
-
 @media (max-width: 991px) {
 	.padding-area {
 		padding-left: 0;
@@ -214,7 +209,7 @@
 		line-height: 1.1;
 	}
 	.logo img {
-		max-width: 135px;
+		max-width: 120px;
 	}
 	.categorie-search-box input {
 		font-size: 15px;
@@ -341,7 +336,6 @@
 }
 
 /*=============== Small (sm) Device ===============*/
-
 @media (max-width: 767px) {
 	.logo {
 		float: left;
@@ -480,7 +474,6 @@
 }
 
 /*=============== Tablet Device ===============*/
-
 @media (max-width: 575px) {
 	.header-top-right > ul > li > a {
 		font-size: 13px;
@@ -569,7 +562,6 @@
 }
 
 /*=============== Mobile Device ===============*/
-
 @media (max-width: 420px) {
 	#list-view .single-ponno-product {
 		padding: 15px;
